@@ -1,12 +1,12 @@
 # Supervised Learning Challenge
-Module 21 Challenge: Supervised learning of credit risk classification data.
+Module 21 Challenge: Deep learning Model optimization of investment projects success
 
 Graded __/100
 
 
 # Report:
 ## Overview:
-	This project applied machine learning to attempt to predict successful venture projects for investment. The funding applicant data analyzed is hypothetical as this project is to practice deep learning methods.
+This project applied machine learning to attempt to predict successful venture projects for investment. The funding applicant data analyzed is hypothetical as this project is to practice deep learning methods.
 
 ## Results:
 ---
@@ -53,8 +53,8 @@ Increasing the amount of layers and neurons in model 2 optimization trials did n
 
 A third trial was attempted with a reduced input DataFrame. This DataFrame arbitrarily dropped columns "STATUS" and "SPECIAL_CONSIDERATIONS" to test if reduced data would increase model accuracy.
 This third trial did not increase in prediction accuracy.
-
 ---
+
 
 Sources:
 
