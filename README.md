@@ -1,4 +1,4 @@
-# Supervised Learning Challenge
+# Neural Networks and Deep Learning Challenge
 Module 21 Challenge: Deep learning Model optimization of investment projects success
 
 Graded __/100
