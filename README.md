@@ -5,6 +5,7 @@ Graded __/100
 
 
 ## Report:
+
 	This project applied machine learning to attempt to predict successful venture projects for investment. The funding applicant data analyzed is hypothetical as this project is to practice deep learning methods.
 
 # (((IN-PROCESS)))
